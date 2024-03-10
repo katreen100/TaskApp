@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp", "TaskApp\TaskApp.csproj", "{EC837AC4-A594-4EE6-BBC9-C5B185B342B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp.Ef", "TaskApp.Ef\TaskApp.Ef.csproj", "{9248C515-6312-4743-95DF-DE0812C6C2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp.Core", "TaskApp.Core\TaskApp.Core.csproj", "{46DEE067-AC7B-4D84-BB1A-F93608E4CB75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC837AC4-A594-4EE6-BBC9-C5B185B342B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC837AC4-A594-4EE6-BBC9-C5B185B342B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC837AC4-A594-4EE6-BBC9-C5B185B342B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC837AC4-A594-4EE6-BBC9-C5B185B342B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9248C515-6312-4743-95DF-DE0812C6C2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9248C515-6312-4743-95DF-DE0812C6C2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9248C515-6312-4743-95DF-DE0812C6C2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9248C515-6312-4743-95DF-DE0812C6C2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46DEE067-AC7B-4D84-BB1A-F93608E4CB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DEE067-AC7B-4D84-BB1A-F93608E4CB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DEE067-AC7B-4D84-BB1A-F93608E4CB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DEE067-AC7B-4D84-BB1A-F93608E4CB75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {546B45ED-39CF-42BC-8850-DD1A01DDC3E2}
+	EndGlobalSection
+EndGlobal
